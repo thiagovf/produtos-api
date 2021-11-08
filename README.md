@@ -25,4 +25,8 @@ Uma vez que o gerenciador de pacotes NPM já esteja instalado, basta executar o 
  npm rum start  
  ```  
  No navegador, é possível visualizar visualizar o 'hello world!' no localhost:3000, porta padrão utilizada pelo NodeJS.  
-  
+ Para que o servidor fique fazendo hotdeploy, basta adicionar :dev após o comando.  
+ ```  
+ npm rum star:dev  
+ ```  
+ 
